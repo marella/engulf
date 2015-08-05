@@ -1,0 +1,35 @@
+{
+  "name": "engulf",
+  "version": "0.1.0",
+  "description": "Write gulp tasks using a simple config",
+  "main": "engulf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravindra Marella",
+  "license": "MIT",
+  "dependencies": {
+    "expander": "^0.3.3",
+    "getobject": "^0.1.0",
+    "lodash": "^3.10.1"
+  },
+  "peerDependencies": {
+    "gulp": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marella/engulf.git"
+  },
+  "keywords": [
+    "gulp",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/marella/engulf/issues"
+  },
+  "homepage": "https://github.com/marella/engulf"
+}
